@@ -1,0 +1,10 @@
+[book]
+title = "Koka语言教程"
+authors = ["KevinLenzz"]
+language = "zh"
+
+[output.html]
+theme = "theme"
+additional-css = ["theme/custom.css"]
+additional-js = ["cjk-search/fzf.umd.js", "cjk-search/elasticlunr.js"]
+mathjax-support = true

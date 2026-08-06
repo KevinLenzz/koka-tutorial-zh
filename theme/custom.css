@@ -1,0 +1,20 @@
+:root {
+  --main-font: sans-serif;
+  --mono-font: monospace, monospace;
+}
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: sans-serif !important;
+}
+
+code,
+pre {
+  font-family: monospace !important;
+}
