@@ -1,4 +1,4 @@
-# Koka 中文教程
+# Koka 中文教程 [->文档页](https://kevinlenzz.github.io/koka-tutorial-zh/)
 
 本文基本内容翻译基于 [Koka 官方文档](https://koka-lang.github.io/koka/doc/book.html)，
 原文版权所有 © 2012-2023 Microsoft Research, Daan Leijen，
